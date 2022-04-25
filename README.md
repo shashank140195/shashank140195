@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashank Gupta
-- 👀 I’m interested in Computer vision and Artificial Intelligence
+- 👀 I’m interested in Natural Language Processing and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
-- 📫 reach me @ contactme@guptashashank.com
+- 📫 reach me @ gupta.shshank1@outlook.com
 - https://guptashashank.com/
 
 <!---
