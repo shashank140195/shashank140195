@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashank Gupta
 - 👀 I’m interested in Natural Language Processing and Machine Learning
 - 🌱 I’m currently a grad Student @ University of Kentucky.
-- 📫 reach me @ gupta.shashank1@outlook.com
+- 📫 reach me @ shashank.gupta00@gmail.com
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=I5c69MIAAAAJ&view_op=list_works&gmla=AJsN-F5ZW35BeYwFMfVKHfWf4EdFETdV5FT77r94ycWSC1m52gHpyWMocyjFGlf1r7LZnlqiMHM1hKC4whsarE09DzMqTafpTmWihYl8VwTN0wCNlTjH3wE
 
 <!---
